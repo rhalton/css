@@ -1,0 +1,56 @@
+h1 {
+	color: cadetblue;
+	font-size: 40px;
+    text-align: center;
+    font-family:  serif;
+    background-color: #cbcbcb;
+    padding: 2.5px;
+    margin: 15px;
+    border: 3.5px black solid;
+    border-radius: 5px;
+    
+}
+h2 {
+    font-family:  serif;
+    
+}
+li {
+    background-color: beige;
+    display: inline;
+    font-size: 24px;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 5px;
+    border: 2.5px black solid;
+    text-align-last: left 45px;
+}      
+
+body {
+    background-image: url(oldmap.png);
+    background-size: cover;
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+
+p {
+    background-color: beige;
+    color: darkslategrey;
+    font-size: 15px;
+    text-align: left;
+    float: right;
+    font-size: 19px;
+    border: 2.5px black solid;
+    padding: 2.5px;
+    margin: 15px;
+    border-radius: 5px;
+    
+	}
+img{
+    float: left;
+    margin: 5px;
+    margin-right: 15px;
+    margin-left: 5px;
+    
+}
